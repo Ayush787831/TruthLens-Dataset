@@ -1,0 +1,41 @@
+label,title,text
+TRUE,Researchers study online misinformation,Researchers evaluate machine learning and natural language processing methods for identifying misleading information online.
+FALSE,Scientists discover a pill that cures every disease,A viral article claims that one newly discovered pill can permanently cure every known disease.
+TRUE,Universities expand digital learning,"Several universities are adding online lectures, digital libraries and educational resources."
+FALSE,Every mobile phone will stop working next Monday,A social media message claims that all mobile phones worldwide will stop working next Monday.
+TRUE,Cybersecurity experts recommend multi-factor authentication,Security professionals recommend multi-factor authentication as an additional protection for online accounts.
+FALSE,Special water lets humans live for 200 years,An unverified post claims that drinking a special type of water can extend human lifespan to 200 years.
+TRUE,Researchers publish study on text classification,Researchers evaluate machine learning techniques for classifying large collections of text.
+FALSE,Every student receives free money without registration,A viral message claims every student will automatically receive a large cash payment without application.
+TRUE,Scientists investigate extreme weather,Researchers use observations and climate models to study patterns in extreme weather events.
+FALSE,One food prevents all diseases,An online claim says eating one particular food every day makes people immune to all common diseases.
+TRUE,Technology companies improve spam detection,Technology companies develop machine learning systems to identify unwanted messages and reduce spam.
+FALSE,The internet will be permanently shut down this weekend,A viral post claims that the entire internet will be permanently switched off this weekend.
+TRUE,Libraries expand digital research resources,"Educational libraries are increasing access to electronic books, journals and research databases."
+FALSE,A plant cures every type of cancer,An unverified article claims researchers discovered a plant that completely cures every form of cancer.
+TRUE,Researchers analyze misinformation on social media,A study examines patterns in the spread of misleading claims across social media platforms.
+FALSE,Rainwater can be converted directly into petrol at home,A social media post claims a household machine can transform rainwater into petrol.
+TRUE,Banks strengthen online account security,Financial institutions are adopting additional authentication and transaction-monitoring measures.
+FALSE,The Moon will permanently turn green tonight,A viral message claims the Moon will permanently change color because of a mysterious event.
+TRUE,Natural language processing helps analyze news text,NLP techniques can extract patterns and information from large collections of news articles.
+FALSE,One spoon of salt replaces eight hours of sleep,An unverified claim says a special salt mixture can replace normal sleep.
+TRUE,Online platforms add programming courses,"Education platforms continue adding courses in programming, databases, statistics and machine learning."
+FALSE,A new battery works for ten years without charging,A viral technology story claims a smartphone battery can work for ten years without charging.
+TRUE,TF-IDF can represent text for machine learning,TF-IDF is commonly used to represent text numerically before traditional machine learning classification.
+FALSE,Humans can naturally breathe underwater after an exercise,A fabricated report claims people can learn to breathe underwater naturally through a short exercise.
+TRUE,Software updates can improve security,Keeping operating systems and applications updated can help address known vulnerabilities.
+FALSE,All schools will remain closed for the entire academic year,An unverified message claims every school will remain closed for the whole academic year.
+TRUE,Text preprocessing is useful before many ML tasks,"Cleaning text, handling missing values and numerical representation are common preprocessing steps."
+FALSE,Earth will have two permanent suns next month,A viral article predicts that a second sun will permanently appear in Earth's sky.
+TRUE,Researchers compare classification algorithms,"Machine learning studies often compare algorithms using accuracy, precision, recall and F1-score."
+FALSE,A secret phone code gives unlimited free internet,A social media post claims a hidden smartphone code provides unlimited free internet.
+TRUE,Data quality affects machine learning performance,"Missing, duplicated or incorrectly labeled records can affect model performance."
+FALSE,AI can predict every future event with certainty,An online claim says a new AI system can predict every future event with complete accuracy.
+TRUE,Model evaluation measures classification performance,A held-out test set can estimate how well a trained classification model performs on unseen examples.
+FALSE,Sunlight makes a phone battery last forever,A fabricated technology claim says direct sunlight permanently restores smartphone battery capacity.
+TRUE,Strong passwords protect online accounts,"Security guidance commonly recommends strong, unique passwords and additional authentication."
+FALSE,A household ingredient instantly teaches every language,A viral post claims consuming a household ingredient provides instant fluency in every language.
+TRUE,Machine learning can support misinformation analysis,Machine learning can help identify linguistic patterns associated with misleading content.
+FALSE,All social media news is automatically verified,A misleading claim says every news article on major social platforms is automatically fact-checked.
+TRUE,Confusion matrices summarize classifier predictions,"A confusion matrix shows true positives, true negatives, false positives and false negatives."
+FALSE,One computer restart makes a PC virus-proof,A fabricated claim says restarting a computer permanently protects it from all malware.
